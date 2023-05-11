@@ -3,5 +3,5 @@
 Welcome to My Github Profile.
 as I create a Commerce Cards from scratch using HTML, CSS, and JavaScript.
 ```
-![image](https://github.com/ParagUnhale1998/Weather-app/blob/main/Preview.png)
-# Display-Api-data
+![image](https://github.com/ParagUnhale1998/Display-Api-data/blob/main/Preview.png)
+
